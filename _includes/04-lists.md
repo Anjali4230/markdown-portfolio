@@ -1,3 +1,3 @@
-#pizza 
-#samosa 
-#burger
+*pizza 
+*samosa 
+*burger
